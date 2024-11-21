@@ -1,2 +1,4 @@
 # info5_classique_L1
-Module info5_classique_L1 ULCO (2022)
+
+Module projet pour les élèves de license 1 informatique de l'université de Calais (ULCO) effectué en 2022.
+Volume horaire de 27h.
